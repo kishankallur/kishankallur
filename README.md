@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hey,%20I%27m%20Kishan!&section=header&textBg=false&fontSize=50&fontAlignY=40&animation=fadeIn&desc=Embedded%20Enthusiast)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hey,%20I%27m%20Kishan!&section=header&textBg=false&fontSize=50&fontAlignY=40&animation=fadeIn&desc=VLSI%20Design%20|%20Embedded%20Systems%20Enthusiast)
 
 <div style="margin-top:-50px;">
 
