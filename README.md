@@ -26,7 +26,7 @@ I'm a VLSI Design and Technology undergraduate based in India, passionate about:
 
 - Real-Time High-Efficiency LoRa Streaming - Implemented Callendar-Van Dusen resistance-to-temperature conversion algorithms for a 3-wire PT100 sensor, processing raw 15-bit ADC registers to achieve sub-degree thermal accuracy across high-voltage/noisy environments.
 
-- ESP32-S3 Based Asynchronous Thermal Telemetry & Diagnostic Visualization Architecture - Architected an asynchronous display subsystem on an ESP32-S3 using non-blocking I2C transactions to drive a 128x64 SSD1306 OLED. Built a rolling array data structure to render live real-time thermal curves, dual-decimal precision resistance telemetry, and hardware-asserted diagnostic fault states with minimal memory overhead.
+- [ESP32-Thermal-Telemetry](https://github.com/kishankallur/ESP32-Thermal-Telemetry)- Architected an asynchronous display subsystem on an ESP32-S3 using non-blocking I2C transactions to drive a 128x64 SSD1306 OLED. Built a rolling array data structure to render live real-time thermal curves, dual-decimal precision resistance telemetry, and hardware-asserted diagnostic fault states with minimal memory overhead.
 
 - OCP meter - Developed a precision embedded OCP measurement system for real-time electrochemical potential acquisition and monitoring. Designed the analog front-end, signal conditioning, ADC acquisition, and digital filtering pipeline for stable low-level voltage measurements. Designed and fabricated a custom PCB with optimized power, grounding, decoupling, and signal routing, and soldered and assembled the components onto the board. Integrated an OLED interface for real-time potential visualization and system diagnostics.
 
