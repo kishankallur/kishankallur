@@ -14,9 +14,9 @@ I'm a VLSI Design and Technology undergraduate based in India, passionate about:
 - EDA tools, simulation, and verification
 - Low-level hardware and system design
 
-![Followers](https://img.shields.io/github/followers/kishan kallur?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/kishan kallur?style=for-the-badge)
-![Profile Views](https://komarev.com/ghpvc/?username=kishan kallur&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/kishankallur?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/kishankallur?style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=kishankallur&style=for-the-badge)
 
 <p align="center">
 ![Skills](https://skillicons.dev/icons?i=arduino,github,git,html,linux,matlab,mysql,raspberrypi,)
